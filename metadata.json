@@ -1,0 +1,5 @@
+{
+  "name": "AgriPulse",
+  "description": "An intelligent agricultural assistant for project management, crop marketing, and disease diagnostics using AI.",
+  "requestFramePermissions": ["camera"]
+}
